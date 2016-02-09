@@ -1,0 +1,23 @@
+{
+  "name": "browse-react",
+  "description": "",
+  "main": "dojoConfig.js",
+  "authors": [
+    "andrew wang"
+  ],
+  "license": "MIT",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "private": true,
+  "dependencies": {
+    "react": "~0.14.3",
+    "react-bootstrap": "^0.28.2"
+  }
+}
